@@ -1,0 +1,11 @@
+.Main{
+  background-color: rgb(245, 202, 187);
+}
+.Nav{
+  justify-content: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+.Flex{
+  justify-content: flex;
+}
