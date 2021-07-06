@@ -1,11 +1,21 @@
 .Main{
-  background-color: rgb(245, 202, 187);
+  background-color: rgb(202, 202, 202);
 }
 .Nav{
   justify-content: flex;
   justify-content: space-between;
   font-size: 30px;
+  height: 70px;
 }
 .Flex{
   justify-content: flex;
+}
+.Link{
+  text-decoration: none;
+  padding: 20px;
+  margin: 15px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(194, 194, 194);
+  border-radius: 20px;
+  font-weight: bold;
 }
