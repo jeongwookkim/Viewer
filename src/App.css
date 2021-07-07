@@ -8,7 +8,8 @@
   height: 70px;
 }
 .Flex{
-  justify-content: flex;
+  justify-content: space-around;
+  display: flex;
 }
 .Link{
   text-decoration: none;
